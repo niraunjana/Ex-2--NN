@@ -1,7 +1,8 @@
 <H3>Name : NIRAUNJANA GAYATHRI G R</H3>
 <H3>Register no. 212222230096</H3>
 <H3>Date</H3>
-<H3>Experiment No. 2 </H3>
+
+## Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
