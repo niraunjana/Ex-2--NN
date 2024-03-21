@@ -57,8 +57,7 @@ Developed by : NIRAUNJANA GAYATHRI G R
 Reg No. 212222230096
 ```
 ```
-
-import numpy as np                                                    
+import numpy as np                                                      
 import pandas as pd                                                     
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
